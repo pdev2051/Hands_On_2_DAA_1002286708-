@@ -1,7 +1,7 @@
 # Arguing the Correctness of Selection Sort
 To prove the correctness of Selection Sort, we can use the loop invariant method. This method involves showing that a certain condition holds before and after each iteration of the algorithm.
 
-# Proof by Loop Invariant Method
+# Proof by Loop Invariant Method 
 At the beginning of each iteration 
 𝑖
 i of the outer loop, the subarray arr[0] to arr[i-1] contains the smallest 
